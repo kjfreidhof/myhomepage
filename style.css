@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    background-image: url(Morskie\ Oko.jpg)
+    
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+button{
+    text-align: center;
+    display: flex;
+    
+}
+
+body{
+    align-items: center;
+    
+}
